@@ -1,1 +1,3 @@
 # WSTI
+
+## Zmiany w pliku
